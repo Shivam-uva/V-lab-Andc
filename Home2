@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<style>
+    
+</style>
+<body>
+
+    <!-- --------CODE FOR HEADER---------- -->
+    <div class="Header">
+        <div class = "Header_cont">
+            <img src="https://www.vlab.andcollege.du.ac.in/images/logo.png" alt="">
+            <span>V-Lab @ ANDC</span>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Labs</a></li>
+                <li><a href="#">Team</a></li>
+                <li><a href="#">College Website</a></li>
+            </ul>
+        </div>
+    </div>
+
+
+
+    <!-- ------------CODE FOR TITLE----------- -->
+    <div class="Title">
+        <h1>My First Virtual Lab</h1>
+    </div>
+
+
+
+
+    <!-- -------------CODE FOR NAVBAR-------------- -->
+    <div class="Navbar">
+        <ul>
+            <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmpbB3jSjMF-FDgIL1E-eRN6eeCDLSsvoAQ&usqp=CAU" alt="">Aim</li>
+            <li><img src="https://cdn-icons-png.flaticon.com/512/1648/1648697.png" alt=""> Theory</li>
+            <li> <img src="https://cdn4.iconfinder.com/data/icons/project-management-1-11/65/23-512.png" alt="">Procedure</li>
+            <li> <img src="https://static.rfstat.com/renderforest/images/v2/landing-pics/logo-animation/editable-minimal.png?v=6" alt="">simulation</li>
+            <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" alt="">Code</li>
+            <li> <img src="https://img.favpng.com/21/11/8/new-york-city-fotolia-stock-photography-sales-png-favpng-f9ZiUMqBcZK0LNfZPfC674ZxZ_t.jpg" alt="">Quiz</li>
+            <li> <img src="https://cdn4.iconfinder.com/data/icons/collection-of-online-business-icons/64/Board_Chart_Results_Business-512.png" alt="">Results</li>
+            <li> <img src="https://image.pngaaa.com/134/5592134-middle.png" alt="">References</li>
+        </ul>
+    </div>
+
+
+
+
+    <!-- ---------------CODE FOR CONTENT---------------- -->
+    <div class="main-content">
+        <div class="AIM">
+            <h3>Aim</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa voluptates itaque modi ducimus tempora, vero, tenetur quae recusandae ex eveniet laborum pariatur eius, repudiandae debitis sint. Repellat non inventore vero.</p>
+        </div>
+        <div class="main-content">
+            <div class="Theory">
+                <h3>Theory</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa voluptates itaque modi ducimus tempora, vero, tenetur quae recusandae ex eveniet laborum pariatur eius, repudiandae debitis sint. Repellat non inventore vero.</p>
+            </div>
+            
+            <div class="main-content">
+                <div class="Procedure">
+                    <h3>Procedure</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa voluptates itaque modi ducimus tempora, vero, tenetur quae recusandae ex eveniet laborum pariatur eius, repudiandae debitis sint. Repellat non inventore vero.</p>
+                </div>
+        </div>
+
+        < div class ="transition">
+    </div>
+</div>
+
+</body>
+</html>
